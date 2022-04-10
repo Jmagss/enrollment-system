@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+
+    
+}
+a, ul{
+    text-decoration: none;
+    color: inherit;
+}
+.see-more{
+    text-align: center;
+    margin-bottom: 2em;
+}
+.see-more:hover{
+    color: white;
+    background-color: black;
+}
+body{
+    background-image: linear-gradient(#11d83c, #e0ff2e);
+}
+h1, h2, h3{
+    text-align: center;
+}
+.bibliography-p{
+    text-align: center;
+    margin: 2em;
+    padding: 2em;
+}
+.defination-of-terms-p{
+    margin: 3em;
+    text-align: justify;
+    
+}
+.chapter2-intro{
+    margin: 3em;
+    padding: 2em;
+}
+.rationale-of-the-study, .rlias, .rlac, .rlis, .rlsm, .rlsuci, .rrls {
+    margin: 3em;
+}
+.flow-of-the-study{
+    margin: 3em;
+    padding: 2em;
+}
+.abstract-p, .acknowledgement-p{
+    margin: 3em;
+    padding: 2em;
+    text-indent: 5%;
+    text-align: justify;
+}
+.mcc-logo-info{
+    text-align: center;
+    margin: 3em;
+    padding: 2em;
+}
+.mcc-logo{
+    float: left;
+    width: 135px;
+
+}
+.mcc-sot-logo{
+    float: right;
+    width: 135px;
+
+}
+ul.member-names{
+    text-align: center;
+    margin: 3em;
+    list-style: none;
+    
+}
+table.center{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+h3{
+    text-align: center;
+}
+a:hover{
+    color: wheat;
+    background-color: black;
+}
+
+    
